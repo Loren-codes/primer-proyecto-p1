@@ -1,0 +1,20 @@
+i. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+trabajando sola aprendí que Git y GitHub está diseñado para organizar y gestionar los cambios en un proyecto de manera eficiente. 
+ademas la creación de ramas permite trabajar en nuevas funciones sin afectar la rama principale esa fue una de mis partes favorita,
+ y el uso de comandos como git add, git commit y git push facilita rastrear y subir los cambios. 
+También comprendí la importancia de hacer pull requests para colaborar con otros y fusionar las contribuciones de manera controlada.
+
+
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste?
+ Trabaje sola y fue interesante. 
+Aunque hubo un momento de confusión inicial sobre cómo sincronizar las ramas. pero se pude resolverlo 
+
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de
+programación?
+Me llama mucho su historial de cambios: Ya permite rastrear todo lo realizado que y cuándo, lo que es útil para depurar errores.
+También la colaboración: Facilita el trabajo en equipo, ya que cada integrante puede trabajar en su propia rama como lo decia anteriormente sin alterar la rama principal.
+Su seguridad es una de las cuales me gusta y usaría Git y GitHub siempre, ademas tienes un respaldo de tu código en el repositorio remoto.
+Eficiencia: Te permite integrar nuevas características o corregir errores sin interrumpir el desarrollo en la rama principal, quisiera seguir acumulando experiencias como éstas. 
+	
